@@ -14,7 +14,7 @@
 </td>
 <td width="65%" valign="top">
 
-I'm a final-year Systems Engineering student at UNASAM, specializing in **Cloud Security** — where I've found the intersection that actually excites me: protecting infrastructure at scale, not just understanding it.
+I'm a Systems Engineering, specializing in **Cloud Security** — where I've found the intersection that actually excites me: protecting infrastructure at scale, not just understanding it.
 
 My journey has been anything but linear. I've built SIEM architectures on AWS, simulated ransomware environments across six VMs on GCP, deployed AI-powered systems using Amazon Bedrock, and led a university cybersecurity community from the ground up. Along the way I've learned that the most interesting problems live at the edge — where cloud, security, and real organizational needs collide.
 
